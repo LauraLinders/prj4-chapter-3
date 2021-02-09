@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+.eurasier {
+color:chocolate;
+background-color: beige;
+text-align: center;
+font-size: 30px;
+}
+
+.dog {
+color:saddlebrown;
+text-align: left;
+font-size: 15px;
+}
+
+.lorem {
+color:tomato;
+text-align: left;
+font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+font-size: 20px;
+}
+
+.buas {
+color: red;
+border-style:solid;
+border-width: 3px;
+border-left-width: 10px;
+border-right-width: 10px;
+border-color: red;
+font-size: 17px;
+}	
+
+#nothere {
+color:cornflowerblue;
+font-size: 15px;
+}
