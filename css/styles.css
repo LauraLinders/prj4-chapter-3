@@ -1,10 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
+
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 .eurasier {
+background-image: url(../images/background2.jpg);
 color:chocolate;
 background-color: beige;
 text-align: center;
 font-size: 30px;
+font-family: 'Roboto Condensed', sans-serif;
+padding: 50px;
 }
 
 .dog {
@@ -16,8 +22,9 @@ font-size: 15px;
 .lorem {
 color:tomato;
 text-align: left;
-font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+font-family: 'Roboto Condensed', sans-serif;
 font-size: 20px;
+
 }
 
 .buas {
