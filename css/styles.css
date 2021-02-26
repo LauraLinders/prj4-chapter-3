@@ -32,7 +32,7 @@ font-size: 20px;
 
 .buas {
 color: red;
-border-style:solid;
+border: 5px dotted red;
 border-width: 3px;
 padding-top: 20px;
 padding-bottom: 20px;
