@@ -21,7 +21,10 @@ font-size: 15px;
 
 .lorem {
 color:tomato;
-text-align: left;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+padding-right: 10px;
 font-family: 'Roboto Condensed', sans-serif;
 font-size: 20px;
 
@@ -31,6 +34,8 @@ font-size: 20px;
 color: red;
 border-style:solid;
 border-width: 3px;
+padding-top: 20px;
+padding-bottom: 20px;
 border-left-width: 10px;
 border-right-width: 10px;
 border-color: red;
@@ -39,5 +44,9 @@ font-size: 17px;
 
 #nothere {
 color:cornflowerblue;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 10px;
+padding-right: 10px;
 font-size: 15px;
 }
