@@ -14,8 +14,7 @@ header {
 margin-bottom: 65px;
 text-align: center;
 color: white;
-background-color: dimgrey;
-	
+background-color: dimgrey;	
 }
 
 
@@ -31,15 +30,13 @@ font-size: 17px;
 .row {
 	
 text-align: center;
-	
 }
 
 
 .Description {
 	
 color: white;
-font-size: 15px;
-	
+font-size: 15px;	
 }
 
 
@@ -47,7 +44,6 @@ font-size: 15px;
 	
 margin-left: 284px;
 margin-bottom: 20px;
-	
 }
 
 
@@ -56,5 +52,4 @@ margin-bottom: 20px;
 color: white;
 text-align: center;
 margin-top: 50px;
-	
-	}
+}
